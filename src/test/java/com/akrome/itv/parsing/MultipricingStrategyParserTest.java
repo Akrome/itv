@@ -1,10 +1,7 @@
-package parsing;
+package com.akrome.itv.parsing;
 
 import com.akrome.itv.beans.SkuId;
-import com.akrome.itv.parsing.MultipricePricingStrategyParser;
-import com.akrome.itv.parsing.StandardPricingStrategyParser;
 import com.akrome.itv.pricing.MultipricedPricingStrategy;
-import com.akrome.itv.pricing.StandardPricingStrategy;
 import org.junit.Test;
 
 import java.io.IOException;

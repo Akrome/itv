@@ -1,15 +1,14 @@
-package parsing;
+package com.akrome.itv.parsing;
 
 import com.akrome.itv.beans.Basket;
 import com.akrome.itv.beans.SkuId;
-import com.akrome.itv.parsing.BasketParser;
 import org.junit.Test;
 
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class BasketParserTest {
     @Test

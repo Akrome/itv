@@ -1,9 +1,6 @@
 package com.akrome.itv.pricing;
 
 import com.akrome.itv.beans.Basket;
-import com.akrome.itv.beans.SkuId;
-
-import java.util.Map;
 
 public class PricingStrategyResult {
     private final int price;
